@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.btnview{
+    width: 190px;
+    height: 45px;
+    border-radius: 25px;
+}
+.home{
+    font-size: 21px;
+}
+.background{
+    background-image: url("public/img/bg7.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.background2{
+    background-image: url("public/img/bg5.jpg");
+    background-size: cover;
+}
+.footers{
+    color: #ffffff;
+}
