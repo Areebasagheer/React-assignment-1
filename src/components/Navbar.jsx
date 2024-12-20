@@ -8,7 +8,7 @@ function Navbar() {
                     <header className="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 me-4 ">
                         <div className="col-md-3 mb-2 mb-md-0">
                             <a class="navbar-brand text-body-emphasis fs-5" href="#">
-                                <img src="public/img/Pakistan_Museum_of_Natural_History_logo-removebg-preview.jpg" alt="Logo" width="90" height="90" class="d-inline-block mx-2" /> PMNH
+                                <img src="/img/Pakistan_Museum_of_Natural_History_logo-removebg-preview.png" alt="Logo" width="90" height="90" class="d-inline-block mx-2" /> PMNH
                             </a>
                         </div>
  

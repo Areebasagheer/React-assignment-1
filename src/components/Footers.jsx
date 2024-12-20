@@ -9,7 +9,7 @@ function Footers() {
                         <div className="col mb-3">
                             <div classNameName="col-md-3 mb-2 mb-md-0">
                                 <a className="navbar-brand" href="#">
-                                    <img src="public/img/Pakistan_Museum_of_Natural_History_logo-removebg-preview.jpg" alt="Logo" width="90" height="90" className="d-inline-block" /> <h6 className="footers">Pakistan Museum of Natural History</h6>
+                                    <img src="/img/Pakistan_Museum_of_Natural_History_logo-removebg-preview.png" alt="Logo" width="90" height="90" className="d-inline-block" /> <h6 className="footers">Pakistan Museum of Natural History</h6>
                                 </a>
                             </div>
                         </div>
